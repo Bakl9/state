@@ -1,5 +1,5 @@
 
-const Box = () => {
+const box = () => {
 
     const [count,stateCount] = useState( 1)
 
